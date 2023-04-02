@@ -1,11 +1,11 @@
 # Microsoft Edge - Extensions
 
 
-Microsoft extensions that I use 🖥️
+Microsoft Edge browser extensions I use 🖥️
 
 ## Chrome Web Store
 
-Using extensions available from [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) as they are compatible with Edge:
+Using compatible extensions from [Chrome Web Store](https://chrome.google.com/webstore/category/extensions).
 
 - [AdBlock — best ad blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
 - [Atom Material Icons](https://chrome.google.com/webstore/detail/atom-material-icons/pljfkbaipkidhmaljaaakibigbcmmpnc)
