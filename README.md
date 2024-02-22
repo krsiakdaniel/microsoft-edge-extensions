@@ -1,6 +1,5 @@
 # Microsoft Edge - Extensions
 
-
 Microsoft Edge browser extensions I use 🖥️
 
 ## Chrome Web Store
@@ -18,9 +17,9 @@ Using compatible extensions from [Chrome Web Store](https://chrome.google.com/we
 - [MDN Code Search](https://chrome.google.com/webstore/detail/mdn-code-search/nifjgldbgogopimfdfclafkhbadkjfca)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-- [Show data attributes](https://chrome.google.com/webstore/detail/show-data-attributes/pidodppoaapknmhbdpkfpffkdeppgmie)
 - [Speed Dial 2 New Tab](https://chrome.google.com/webstore/detail/speed-dial-2-new-tab/jpfpebmajhhopeonhlcgidhclcccjcik)
 - [Sprucemarks](https://chrome.google.com/webstore/detail/sprucemarks/fakeocdnmmmnokabaiflppclocckihoj)
+- [Unhook - Remove YouTube Recommended Videos](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
 - [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp)
 - [Webmail Ad Blocker](https://chrome.google.com/webstore/detail/webmail-ad-blocker/cbhfdchmklhpcngcgjmpdbjakdggkkjp)
 - [Wide GitHub](https://chrome.google.com/webstore/detail/wide-github/kaalofacklcidaampbokdplbklpeldpj)
