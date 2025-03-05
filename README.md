@@ -9,6 +9,7 @@ Using compatible extensions from [Chrome Web Store](https://chrome.google.com/we
 - [AdBlock — best ad blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
 - [Atom Material Icons](https://chrome.google.com/webstore/detail/atom-material-icons/pljfkbaipkidhmaljaaakibigbcmmpnc)
 - [ESUIT Adblocker for Facebook](https://chrome.google.com/webstore/detail/esuit-adblocker-for-faceb/jkbklfkombochacjoeagggbiohipcbaj)
+- [GitKraken](https://microsoftedge.microsoft.com/addons/detail/gitkraken/eehliiniplilmbgcnghhaneefihofjnl)
 - [Ghostery – Privacy Ad Blocker](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij)
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - [GraphQL Network Inspector](https://chromewebstore.google.com/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln)
